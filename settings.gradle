@@ -1,0 +1,2 @@
+rootProject.name='SQLiteOpenHelper'
+include ':app'
